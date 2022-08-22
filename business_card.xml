@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<business_card>
+  <first_name>Mihail</first_name>
+  <second_name>Radionov</second_name>
+  <last_name>Mihailovich</last_name>
+  <phone_number>8 555 555 55 55</phone_number>
+  <phone_number_2>8 999 999 99 99</phone_number_2>
+  <email>mihail.radionov.@gamil.com</email>
+  <skills>Junior Ruby developer</skills>
+</business_card>
